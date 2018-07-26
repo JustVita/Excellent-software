@@ -16,29 +16,40 @@
 
 资金足够请支持正版
 
+****
+
+|Author|vitali|
+|---|---
+|E-mail|vitaliqp@foxmail.com
+
+
 
 ### 工具类集合
 
-**OmniGraffle pro** 图形工具  
+* **OmniGraffle pro** [图形工具](./Mac/Tools/绘图工具)  
 
-**FOLX GO+**	下载工具  
+* **FOLX GO+**	  [下载工具](./Mac/Tools/下载工具) 
 
-**iThoughtsX & Xmind** 思维导图  
+* **iThoughtsX & Xmind** 思维导图  
 
-**Charies**  抓包
+* **Charies**  [抓包工具](./Mac/Tools/抓包工具) 
 
-**SiteSucker**  扒站
+* **SiteSucker**  [扒站工具](./Mac/Tools/抓包工具) 
 
-**PD & VM**  虚拟机
+* **PD & VM**  [虚拟机](./Mac/Tools/虚拟机/PD) 
 
-**Jump Desktop**  远程桌面
+* **Jump Desktop**  [远程桌面](./Mac/Tools/远程控制) 
 
-**teamViewer**  远程访问
+* **teamViewer**  [远程访问](./Mac/Tools/远程控制) 
 
-**HandShaker**  Android文件传输
+* **HandShaker**  Android文件传输
 
-**Cinch**  分屏
+* **Cinch**  分屏
 
-##### -----------------------持续更新中----------------------------
+##### -----------------------持续更新中----------------------------  
 
-**PS:软件解压密码均为：xclient.info**
+## 注意事项
+***
+
+* **PS:软件解压密码均为：xclient.info**
+* **部分软件提供破解程序**
