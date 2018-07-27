@@ -21,30 +21,53 @@
 |Author|vitali|
 |---|---
 |E-mail|vitaliqp@foxmail.com
-
+|csdn|[CSDN](https://blog.csdn.net/baidu_35154065/article/details/81213468)
+|知乎专栏|[优秀软件集合](https://zhuanlan.zhihu.com/vitali-software)
 
 
 ### 工具类集合
 
-* **OmniGraffle pro** [图形工具](./Mac/Tools/绘图工具)  
+* **OmniGraffle pro** [图形工具](./Mac/Tools/drawing)  
 
-* **FOLX GO+**	  [下载工具](./Mac/Tools/下载工具) 
+* **FOLX GO+**	  [下载工具](./Mac/Tools/download) 
 
 * **iThoughtsX & Xmind** 思维导图  
 
-* **Charies**  [抓包工具](./Mac/Tools/抓包工具) 
+* **Charies**  [抓包工具](./Mac/Tools/catch) 
 
-* **SiteSucker**  [扒站工具](./Mac/Tools/抓包工具) 
+* **SiteSucker**  [扒站工具](./Mac/Tools/catch) 
 
-* **PD & VM**  [虚拟机](./Mac/Tools/虚拟机/PD) 
+* **PD & VM**  [虚拟机](./Mac/Tools/virtual/PD) 
 
-* **Jump Desktop**  [远程桌面](./Mac/Tools/远程控制) 
+* **Jump Desktop**  [远程桌面](./Mac/Tools/remoteControl) 
 
-* **teamViewer**  [远程访问](./Mac/Tools/远程控制) 
+* **teamViewer**  [远程访问](./Mac/Tools/remoteControl) 
 
-* **HandShaker**  Android文件传输
+### 系统类集合
 
-* **Cinch**  分屏
+* **CleanMyMac** [磁盘清理](./Mac/System/clean)
+
+* **Paste**  [剪切板](./Mac/System/Clipboard)
+
+* **Contexts**	[窗口切换](./Mac/System/fastSwitching)
+
+* **PathFinder**		[文件管理器](./Mac/System/fileManager)
+
+* **Bartender**		[菜单管理](./Mac/System/menu)
+
+* **iTools Pro**		[ios管理](./Mac/System/mobileManager)
+
+* **iStat Menus**	[系统监控](./Mac/System/monitoring)
+
+* **Mounty**		[NTFS](./Mac/System/NTFS)
+
+* **Alfred**		[快速搜索](./Mac/System/search)
+
+* **Magnet**		[分屏](./Mac/System/SplitScreen)
+
+* **BetterTouchTool**	[触控板](./Mac/System/touch)
+
+* **Archiver/BetterZip**	[解压缩](./Mac/System/unzip)
 
 ##### -----------------------持续更新中----------------------------  
 
