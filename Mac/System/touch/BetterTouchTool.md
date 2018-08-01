@@ -1,6 +1,6 @@
-##BetterTouchTool##
+# BetterTouchTool
 	
-**触控板**
+## **触控板**
 
 * *可设置所有触控板*  
 

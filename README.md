@@ -67,7 +67,32 @@
 
 * **BetterTouchTool**	[触控板](./Mac/System/touch)
 
-* **Archiver/BetterZip**	[解压缩](./Mac/System/unzip)
+* **Archiver/BetterZip**	[解压缩](./Mac/System/unzip)  
+
+### 生活类集合
+
+* **Boostnote**	[笔记](./Mac/Daily/noteManager)  
+
+* **1Password**	[密码](./Mac/Daily/passwordManager)  
+
+* **Xee**	[图片预览](./Mac/Daily/pictureManager)  
+
+* **OmniFocus**	[高级任务管理](./Mac/Daily/taskManager)  
+
+* **Downie**	[视频下载](./Mac/Daily/videoManager)  
+
+* **OCRKit Pro**	[文字识别](./Mac/Daily/wordsManager) 
+
+* **AirMail** 轻量级邮件客户端
+
+* **PDF Expert** 批量级PDF预览  
+
+* **Papers** 文献管理工具
+
+* **Movist** 播放器
+
+* **Screen Flow** 屏幕录制
+
 
 ##### -----------------------持续更新中----------------------------  
 
