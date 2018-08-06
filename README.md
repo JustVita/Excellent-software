@@ -93,6 +93,20 @@
 
 * **Screen Flow** 屏幕录制
 
+### 设计类集合
+
+* **Sketch**	[矢量绘图](./Mac/Design/Vector)
+
+* **Sip Pro**	[取色计](./Mac/Design/Color)
+
+* **Principle**	[交互设计](./Mac/Design/Interactive)
+
+* **Flinto**	可交互设计原型
+
+* **Inpaint**	 [去水印](./Mac/Design/Watermark)
+
+* **Axure RP** [原型设计](./Mac/Design/Prototype) 
+
 
 ##### -----------------------持续更新中----------------------------  
 
