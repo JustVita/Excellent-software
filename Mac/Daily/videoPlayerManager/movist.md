@@ -1,1 +1,5 @@
-[文字识别](./Mac/Daily/videoPlayerManager)
+# Movist
+
+## 视频播放
+* **一款优秀的视频播放软件**
+* **补足了MPlayerX很多不足的地方**

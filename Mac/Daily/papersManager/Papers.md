@@ -1,1 +1,4 @@
-[文字识别](./Mac/Daily/papersManager)
+# Pagers
+
+## 文献管理
+* **管理你的论文文献**

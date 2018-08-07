@@ -1,1 +1,0 @@
-[图片预览](./Mac/Daily/pictureManager)

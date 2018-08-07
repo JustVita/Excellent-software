@@ -146,26 +146,67 @@
 ### 生活类集合
 
 * **Boostnote**	[笔记](./Mac/Daily/noteManager)  
+	* 程序员专用笔记本
+	* 支持各种语言的代码编写
+	* 支持各种语言的代码片段保存
+	
+![](./Mac/GIF/daily/BoostNote.gif)
 
-* **1Password**	[密码](./Mac/Daily/passwordManager)  
+* **1Password**	[密码](./Mac/Daily/passwordManager)
+	* 随机生成高质量的密码
+	* 支持快速搜索已保存账号信息
+	* 可保存网站对应账号并直接转到填入
+	
+![](./Mac/GIF/daily/1Password.gif)  
 
-* **Xee**	[图片预览](./Mac/Daily/pictureManager)  
+* **Xee**	[图片预览](./Mac/Daily/pictureManager)
+	* 	解决Mac图片切换问题
+	*  支持几乎所有常见图片格式
 
-* **OmniFocus**	[高级任务管理](./Mac/Daily/taskManager)  
+![](./Mac/GIF/daily/Xee.gif)	  
+
+* **OmniFocus**	[高级任务管理](./Mac/Daily/taskManager)
+	* 用了这个，别的不会再想用了
+
+![](./Mac/GIF/daily/OmniFocus.gif)  
 
 * **Downie**	[视频下载](./Mac/Daily/videoManager)  
+	* 拖拽网址能直接下载视频
+	* 支持多个视频网站
+	
+![](./Mac/GIF/daily/Downie.gif)
 
-* **OCRKit Pro**	[文字识别](./Mac/Daily/wordsManager) 
+* **OCRKit Pro**	[文字识别](./Mac/Daily/wordsManager)
+	* 拖拽文件直接进行扫描
+	* 支持多种格式转换 
 
-* **AirMail** 轻量级邮件客户端
+![](./Mac/GIF/daily/OCRKit.gif)
+
+* **AirMail** [轻量级邮件客户端](./Mac/Daily/emailManager)
+	* 轻量级邮箱
+	* 支持多种账号
+
+![](./Mac/GIF/daily/AirMail.gif)
 
 * **PDF Expert** 批量级PDF预览  
+	* 支持大批量的PDF的预览，例如超过五千张
+	* 可惜我没有这个的软件
 
-* **Papers** 文献管理工具
+* **Papers** [文献管理工具](./Mac/Daily/papersManager)
+	* 一键管理你的论文文献工具
 
-* **Movist** 播放器
+![](./Mac/GIF/daily/Papers.gif)
 
-* **Screen Flow** 屏幕录制
+* **Movist** [视频播放器](./Mac/Daily/videoPlayerManager)
+	*  补足了MPlayerX不足的地方
+
+![](./Mac/GIF/daily/Movist.gif)
+
+* **Screen Flow** [屏幕录制](./Mac/Daily/screenManager)
+	* 支持设置固定录屏时间，生成文件参数
+	* 可对生成文件进行处理
+
+![](./Mac/GIF/daily/ScreenFlow.gif)
 
 ### 设计类集合
 
