@@ -17,7 +17,6 @@
 
 资金足够请支持正版
 
-[GitHub][15]中会提供软件下载和链接
 
 |Author|vitali|
 |---|---
@@ -101,18 +100,18 @@
 	*	两款都够优秀
 	* 	我更喜欢potPlayer
 
-[1]:https://github.com/JustVita/Excellent-software
-[2]:https://github.com/JustVita/Excellent-software
-[3]:https://github.com/JustVita/Excellent-software
-[4]:https://github.com/JustVita/Excellent-software
-[5]:https://github.com/JustVita/Excellent-software
-[6]:https://github.com/JustVita/Excellent-software
-[7]:https://github.com/JustVita/Excellent-software
-[8]:https://github.com/JustVita/Excellent-software
-[9]:https://github.com/JustVita/Excellent-software
-[10]:https://github.com/JustVita/Excellent-software
-[11]:https://github.com/JustVita/Excellent-software
-[12]:https://github.com/JustVita/Excellent-software
-[13]:https://github.com/JustVita/Excellent-software
-[14]:https://github.com/JustVita/Excellent-software
+[1]:./Effectiveness/MobileScreen
+[2]:./Effectiveness/SplitScreen
+[3]:./Effectiveness/Paste
+[4]:./Effectiveness/Zip
+[5]:./Effectiveness/QuicklySearch
+[6]:./Effectiveness/Browser
+[7]:./Effectiveness/Picking
+[8]:./Effectiveness/Recording
+[9]:./Effectiveness/Eyes
+[10]:./Effectiveness/Note
+[11]:./Effectiveness/PicturePreview
+[12]:./Effectiveness/FileSearching
+[13]:./Effectiveness/Download
+[14]:./Effectiveness/Audio
 [15]:https://github.com/JustVita/Excellent-software
