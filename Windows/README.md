@@ -1,4 +1,4 @@
-# 必备的优秀软件合集--Windows（一）
+# 必备的优秀软件合集--Windows
 
 # 工作效率类
 
@@ -18,6 +18,12 @@
 资金足够请支持正版
 
 [GitHub][15]中会提供软件下载和链接
+
+|Author|vitali|
+|---|---
+|E-mail|vitaliqp@foxmail.com
+|csdn|[CSDN](https://blog.csdn.net/baidu_35154065/article/details/81213468)
+|知乎专栏|[优秀软件集合](https://zhuanlan.zhihu.com/vitali-software)
 
 * **手机投屏**		[screen][1]
 	*	**手机投屏到PC，支持WiFi，有线**
