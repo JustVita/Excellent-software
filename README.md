@@ -1,4 +1,4 @@
-# 收集那些优秀的软件（Windows & Mac）
+# 收集那些优秀的软件（Windows & Mac & Chrome plugins）
 
 ### 前言：
 
@@ -26,3 +26,5 @@
 # [Mac](./Mac/README.md)
 
 # [Windows](./Windows/README.md)
+
+# [Chrome plugins](./ChromePlugins/README.md)
