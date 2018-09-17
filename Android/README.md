@@ -118,7 +118,7 @@
 ![note](https://github.com/JustVita/Excellent-software/raw/master/Android/APPGIF/note.gif)	
 
 
-* **新闻资讯**------轻芒阅读[14]  
+* **新闻资讯**------[轻芒阅读][14]  
 	* 	这款APP可以让你节省很多空间去下载别的APP，集合了很多资讯新闻
 	*  我最喜欢的，其实是不能评论，你可以点赞，可以转发
 	*  现在很多人，看完一条新闻，立马就去点开评论，看别人在说什么
