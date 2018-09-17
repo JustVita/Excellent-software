@@ -110,7 +110,7 @@ Chrome能进行账号同步，在什么电脑都能使用你的书签插件
 
 * **图片查找**		[Search by image][13]
 	* 	谷歌出品的插件
-	*  	根据图片查找/Users/qp/Pictures/grass-photo-windows-1024x768.jpg
+	*  	根据图片查找
    
 
 ![SearchByImage](https://github.com/JustVita/Excellent-software/raw/master/ChromePlugins/GIF/SearchByImage.gif)
