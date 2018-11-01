@@ -2,6 +2,9 @@
 
 # 工作效率类
 
+* 2018年11月1号更新：
+	* 新增卸载器
+
 ## 前言：
 
 
@@ -24,6 +27,19 @@
 |csdn|[CSDN](https://blog.csdn.net/baidu_35154065/article/details/81213468)
 |知乎专栏|[优秀软件集合](https://zhuanlan.zhihu.com/vitali-software)
 
+* **程序卸载**		Revo Uninstaller
+	*	**能够彻底的卸载程序，可扫描残留文件**
+	* 	**有Office清理器，Windows清理器，浏览器清理器等等**
+	*  	**可切换成猎人模式**
+		*  	**可直接对桌面图标或者窗口进行处理**
+		*  	**然后可直接执行卸载、停止自启、终止进程、打开所在文件夹等**
+	*  	**无任何广告**
+	*  	**基础班能满足需求**
+	*  	**速度快，页面简洁，没有所谓的假清理**
+	*  	**使用过的最好的卸载器，没有之一**
+	
+![Revo](https://github.com/JustVita/Excellent-software/raw/master/Windows/GIF/Effectiveness/Revo.gif)
+	
 * **手机投屏**		[screen][1]
 	*	**手机投屏到PC，支持WiFi，有线**
 	* 	**卡顿延迟可以保持在500ms以下（WiFi看网速）**
