@@ -52,6 +52,7 @@
 	*  	**我愿付费买作者更新**
 	*  	**作者不更新了**
 	*  	**PC端无声**
+	* 	**请注意不支持8.0系统**
 	
 ![screen](https://github.com/JustVita/Excellent-software/raw/master/Windows/GIF/Effectiveness/screen.gif)
 
