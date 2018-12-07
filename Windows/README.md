@@ -27,7 +27,7 @@
 |csdn|[CSDN](https://blog.csdn.net/baidu_35154065/article/details/81213468)
 |知乎专栏|[优秀软件集合](https://zhuanlan.zhihu.com/vitali-software)
 
-* **程序卸载**		Revo Uninstaller
+* **程序卸载**		[Revo Uninstaller][16]
 	*	**能够彻底的卸载程序，可扫描残留文件**
 	* 	**有Office清理器，Windows清理器，浏览器清理器等等**
 	*  	**可切换成猎人模式**
@@ -162,3 +162,4 @@
 [13]:https://github.com/JustVita/Excellent-software/tree/master/Windows/Effectiveness/Download
 [14]:https://github.com/JustVita/Excellent-software/tree/master/Windows/Effectiveness/Audio
 [15]:https://github.com/JustVita/Excellent-software
+[16]:https://github.com/JustVita/Excellent-software/tree/master/Windows/Effectiveness/Uninstall
