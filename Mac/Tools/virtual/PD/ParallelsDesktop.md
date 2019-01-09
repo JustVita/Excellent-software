@@ -11,3 +11,6 @@
 提取码：533n
 
 ![](https://github.com/JustVita/Excellent-software/blob/master/Mac/screenshot/toolsScreenshot/pd.jpg)
+
+# 官网链接
+* https://www.parallels.com/

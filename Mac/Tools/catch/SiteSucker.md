@@ -6,3 +6,6 @@
 *直接撸一个网站*
 
 ![](https://github.com/JustVita/Excellent-software/blob/master/Mac/screenshot/toolsScreenshot/SiteSucker.jpg)
+
+# 官网链接
+* https://ricks-apps.com/

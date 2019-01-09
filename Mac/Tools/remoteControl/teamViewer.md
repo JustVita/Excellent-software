@@ -10,3 +10,6 @@
 *ps:未连接显示器的Ubuntu，无效*
 
 ![](https://github.com/JustVita/Excellent-software/blob/master/Mac/screenshot/toolsScreenshot/teamViewer.jpg)
+
+# 官网链接
+* https://www.teamviewer.com/en/

@@ -7,3 +7,6 @@
 * *文件扫描*
 
 * PS：听说会误删
+
+# 官网链接
+* https://cleanmymac.com/

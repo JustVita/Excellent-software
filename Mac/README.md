@@ -1,4 +1,4 @@
-# 收集那些优秀的软件（Windows & Mac）
+# 收集那些优秀的软件（Mac）
 
 ## Mac
 
@@ -195,10 +195,9 @@
 
 ![](./GIF/daily/Papers.gif)
 
-* **Movist** [视频播放器](./Daily/videoPlayerManager)
-	*  补足了MPlayerX不足的地方
-
-![](./GIF/daily/Movist.gif)
+* **IINA** [视频播放器](./Daily/videoPlayerManager)
+	*  目前使用最舒服的视频播放器之一
+	*  可供选择的还有射手影音
 
 * **Screen Flow** [屏幕录制](./Daily/screenManager)
 	* 支持设置固定录屏时间，生成文件参数

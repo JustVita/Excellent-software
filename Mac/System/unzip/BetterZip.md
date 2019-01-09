@@ -5,3 +5,6 @@
 * *快速*  
 
 * *可加密*
+
+# 官网链接
+* https://macitbetter.com/

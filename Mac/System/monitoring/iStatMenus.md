@@ -9,3 +9,6 @@
 * *温度监控*
 
 * *系统CPU，内存，磁盘监控*
+
+# 官网链接
+* https://bjango.com/mac/istatmenus/
