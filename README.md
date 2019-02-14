@@ -1,5 +1,5 @@
 # 收集那些优秀的软件
-## Windows & Mac & Chrome plugins & Android
+## Windows & Mac & Chrome Extensions & Android
 
 ### 前言：
 
@@ -32,5 +32,8 @@
 
 # [Android](./Android/README.md)
 
+* 2019年2月14日更新：
+	* 新增字体软件-字由
+
 * 2019年1月9号更新：
-	* 	应G友要求，给出每个程序的官网链接
+	* 应G友要求，给出每个程序的官网链接
