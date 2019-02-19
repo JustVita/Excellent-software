@@ -28,7 +28,7 @@
 
 # [Windows](./Windows/README.md)
 
-# [Chrome plugins](./ChromePlugins/README.md)
+# [Chrome Extensions](./ChromePlugins/README.md)
 
 # [Android](./Android/README.md)
 
