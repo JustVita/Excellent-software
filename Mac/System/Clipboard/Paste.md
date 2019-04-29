@@ -10,3 +10,6 @@
 
 # 官网链接
 * https://pasteapp.me/
+
+# 国内链接
+*	https://partner.lizhi.io/bestsoft/paste

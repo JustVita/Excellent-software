@@ -9,4 +9,7 @@
 
 
 # 官网链接
-* https://www.telestream.net/screenflow/
+* 	https://www.telestream.net/screenflow/
+
+# 国内链接
+*	https://partner.lizhi.io/bestsoft/sceenflow

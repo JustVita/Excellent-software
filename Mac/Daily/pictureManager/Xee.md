@@ -6,3 +6,6 @@
 
 # 官网链接
 * https://theunarchiver.com/xee
+
+# 国内链接
+* ttps://partner.lizhi.io/bestsoft/xee

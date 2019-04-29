@@ -6,3 +6,6 @@
 
 # 官网链接
 * https://software.charliemonroe.net/downie.php
+
+#	国内链接
+*	https://partner.lizhi.io/bestsoft/downie

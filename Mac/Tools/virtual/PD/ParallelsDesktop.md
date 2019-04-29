@@ -14,3 +14,6 @@
 
 # 官网链接
 * https://www.parallels.com/
+
+# 国内链接
+* https://partner.lizhi.io/bestsoft/parallels_desktop

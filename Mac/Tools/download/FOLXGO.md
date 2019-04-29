@@ -12,3 +12,6 @@
 
 # 官网链接
 * https://www.mac-downloader.com/
+
+# 国内链接
+*	https://partner.lizhi.io/bestsoft/folx
